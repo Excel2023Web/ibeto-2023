@@ -99,7 +99,7 @@ export default function Getstarted() {
                       target="_blank"
                       title="register_Ibeto"
                       style={{
-                        marginLeft:"0.5rem"
+                        marginLeft:"0.2rem"
                       }}
                       className="hover:scale-110 text-md -ml-12 font-body2 font-normal inline-flex items-center justify-center px-8 scale-105 py-2 text-base text-white bg-gradient-to-r from-[#f9681c] to-[#e80a5a] rounded-full"
                       role="button"
