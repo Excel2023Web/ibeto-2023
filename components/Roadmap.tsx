@@ -99,7 +99,7 @@ export default function Roadmap() {
                   </svg>
                   <span className="flex-1 ml-2 text-base font-medium text-white">
                     {" "}
-                    Where bright minds ignite innovation. Start with an idea, shape the future.{" "}
+                    Teams are expected to define and refine their problem statements.{" "}
                   </span>
                 </li>
 
@@ -209,7 +209,7 @@ export default function Roadmap() {
                   </svg>
                   <span className="flex-1 ml-2 text-base font-medium text-white">
                     {" "}
-                    Transform your vision into reality. Innovate, iterate, and make an impact{" "}
+                    Prepare your prototype using the technologies that your team has decided on with the help of mentors.{" "}
                   </span>
                 </li>
 
@@ -319,7 +319,7 @@ export default function Roadmap() {
                   </svg>
                   <span className="flex-1 ml-2 text-base font-medium text-white">
                     {" "}
-                    Step into the spotlight. Present your creation to experts and change-makers{" "}
+                    Present your prototype in front of a panel of experts and win prizes.{" "}
                   </span>
                 </li>
 

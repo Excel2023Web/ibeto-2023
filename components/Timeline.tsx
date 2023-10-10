@@ -19,12 +19,7 @@ export default function Timeline() {
       para: "IBeTo registration opens. Students can register by submitting their ideas by filling out the form on the website.",
     },
     {
-      date: "21st October",
-      title: "Detailed Abstract Submission Opens",
-      para: "Detailed Abstract Submission opens for registered IBeTo participants. Registration is still open via the form on the website.",
-    },
-    {
-      date: "1st November",
+      date: "11th November",
       title: "Registration closes",
       para: "IBeTo registration closes.",
     },
@@ -47,11 +42,6 @@ export default function Timeline() {
       date: "22nd December - 2nd February",
       title: "Project Development Begins",
       para: "The Create Phase begins. Teams are encouraged to start working on their projects.",
-    },
-    {
-      date: "10th January",
-      title: "Meet The Mentor Session",
-      para: "The teams are given an opportunity to interact with their mentors and obtain advice on how to develop their project further.",
     },
     {
       date: "20th January",

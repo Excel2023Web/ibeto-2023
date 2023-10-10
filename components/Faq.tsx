@@ -10,42 +10,42 @@ export default function Faq() {
   const items = [
     {
       uuid: 1,
-      question: "Who could participate in IBeTo ?",
+      question: "Who can participate in IBeTo?",
       answer:
-        "Participants can be undergraduates/postgraduates, including those who are currently pursuing the degree, with an upper age limit of 30 years.",
+        "Participants can include individuals who are undergraduates or postgraduates, and this eligibility extends to those who are currently pursuing their degrees, with an upper age limit of 30 years.",
     },
     {
       uuid: 2,
-      question: "Will there be registration fees to participate in IBeTo  2023?",
+      question: "Will there be any registration fees associated with participation in IBeTo 2023?",
       answer:
         "The event is completely free of cost.",
     },
     {
       uuid: 3,
-      question: "Why should you Participate?",
+      question: "Why should I participate?",
       answer:
-        "Internship opportunities for selected participants. Exclusive perks for all the 30 shortlisted teams.",
+        "You should definitely consider joining this program! It offers the chance to connect with like-minded peers, leverage industry support to scale your project, access mentors who can help enhance your skills, and get your doubts cleared along the way.",
     },
     {
       uuid: 4,
-      question: "Should all team members be from the same institution or college?",
+      question: "Can a team have members from different colleges or institutions?",
       answer:
-        "No. A team can have members from different colleges or institutions.",
+        "Absolutely! Your team can include members from various colleges or institutions. We encourage diverse collaborations and believe it can lead to innovative and exciting projects..",
     },
     {
       uuid: 5,
       question: "From which phase will I be eligible for a Certificate of Participation?",
-      answer: "Participants in the create phase shall receive a Certificate of Participation and winners will receive a Certificate of Merit in addition to this.",
+      answer: "Participants in the Create Phase will receive a Certificate of Participation, and winners will additionally receive a Certificate of Merit.",
     },
     {
       uuid: 6,
-      question: "Will I be eligible for KTU activity points if I take part in IBeTo  2023?",
+      question: "Will I be eligible for KTU activity points if I take part in IBeTo 2023?",
       answer: "As per KTU regulations, socially beneficial projects can avail up to 50 activity points.",
     },
     {
       uuid: 7,
       question: "What is the team size limit?",
-      answer: "Participants can take part individually or form a team. The maximum number of members allowed in a team is 4.",
+      answer: "Participants have the option to take part individually or form a team. The maximum number of members allowed in a team is 4.",
     },
   ];
   return (
