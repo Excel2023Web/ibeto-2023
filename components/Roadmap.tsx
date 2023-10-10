@@ -39,8 +39,7 @@ export default function Roadmap() {
               <ul className="space-y-3 mt-7">
                 <li
                   data-aos="zoom-in"
-                  data-aos-delay="200"
-                  data-aos-duration="1000"
+                  data-aos-delay="100"
                   style={{
                     display: "flex",
                     alignItems: "center",
@@ -72,8 +71,7 @@ export default function Roadmap() {
 
                 <li
                   data-aos="zoom-in"
-                  data-aos-delay="400"
-                  data-aos-duration="1000"
+                  data-aos-delay="150"
                   style={{
                     display: "flex",
                     alignItems: "center",
@@ -105,8 +103,7 @@ export default function Roadmap() {
 
                 {/* <li
                   data-aos="zoom-in"
-                  data-aos-duration="1000"
-                  data-aos-delay="800"
+                  data-aos-delay="200"
                   style={{
                     display: "flex",
                     alignItems: "center",
@@ -149,8 +146,7 @@ export default function Roadmap() {
               <ul className="space-y-3 mt-7">
                 <li
                   data-aos="zoom-in"
-                  data-aos-duration="1300"
-                  data-aos-delay="900"
+                  data-aos-delay="250"
                   style={{
                     display: "flex",
                     alignItems: "center",
@@ -182,8 +178,7 @@ export default function Roadmap() {
 
                 <li
                   data-aos="zoom-in"
-                  data-aos-duration="1300"
-                  data-aos-delay="1000"
+                  data-aos-delay="300"
                   style={{
                     display: "flex",
                     alignItems: "center",
@@ -215,8 +210,7 @@ export default function Roadmap() {
 
                 {/* <li
                   data-aos="zoom-in"
-                  data-aos-duration="1300"
-                  data-aos-delay="1100"
+                  data-aos-delay="350"
                   style={{
                     display: "flex",
                     alignItems: "center",
@@ -259,8 +253,7 @@ export default function Roadmap() {
               <ul className="space-y-3 mt-7">
                 <li
                   data-aos="zoom-in"
-                  data-aos-duration="1500"
-                  data-aos-delay="1300"
+                  data-aos-delay="400"
                   style={{
                     display: "flex",
                     alignItems: "center",
@@ -292,8 +285,7 @@ export default function Roadmap() {
 
                 <li
                   data-aos="zoom-in"
-                  data-aos-duration="1700"
-                  data-aos-delay="1500"
+                  data-aos-delay="450"
                   style={{
                     display: "flex",
                     alignItems: "center",
@@ -325,8 +317,7 @@ export default function Roadmap() {
 
                 {/* <li
                   data-aos="zoom-in"
-                  data-aos-duration="1700"
-                  data-aos-delay="1700"
+                  data-aos-delay="500"
                   style={{
                     display: "flex",
                     alignItems: "center",

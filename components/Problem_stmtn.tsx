@@ -46,7 +46,7 @@ export default function Problem_stmnt() {
           <div className="px-0 grid grid-cols-1 g gap-12 mt-12 sm:mt-16 sm:grid-cols-2 lg:grid-cols-3 lg:px-14 ">
             <div
               data-aos="zoom-in"
-              data-aos-delay="500"
+              data-aos-delay="100"
               className="bg-white/70 p-6 rounded-3xl border border-rose-300"
             >
               <h3
@@ -94,7 +94,7 @@ export default function Problem_stmnt() {
             </div>
             <div
               data-aos="zoom-in"
-              data-aos-delay="800"
+              data-aos-delay="150"
               className="bg-white/70 p-6 rounded-3xl border border-rose-300"
             >
               <h3
@@ -140,7 +140,7 @@ export default function Problem_stmnt() {
             </div>
             <div
               data-aos="zoom-in"
-              data-aos-delay="1000"
+              data-aos-delay="200"
               className="bg-white/70 p-6 rounded-3xl border border-rose-300"
             >
               <h3
@@ -188,7 +188,7 @@ export default function Problem_stmnt() {
             </div>
             <div
               data-aos="zoom-in"
-              data-aos-delay="1100"
+              data-aos-delay="250"
               className="bg-white/70 p-6 rounded-3xl border border-rose-300"
             >
               <h3
@@ -236,7 +236,7 @@ export default function Problem_stmnt() {
             </div>
             <div
               data-aos="zoom-in"
-              data-aos-delay="1200"
+              data-aos-delay="300"
               className="bg-white/70 p-6 rounded-3xl border border-rose-300"
             >
               <h3
@@ -282,7 +282,7 @@ export default function Problem_stmnt() {
             </div>{" "}
             <div
               data-aos="zoom-in"
-              data-aos-delay="1400"
+              data-aos-delay="350"
               className="bg-white/70 p-6 rounded-3xl border border-rose-300"
             >
               <h3
