@@ -38,11 +38,14 @@ export default function Sponsors() {
                   display: "flex",
                 }}
               >
-                <div className="flex justify-center gap-2 flex-col w-full">
+                <div className="flex justify-center gap-2 flex-col w-full" onClick={()=>{
+                  window.open('https://www.careerlauncher.com/')
+                }}>
                   <img
                     className="collaborator__img"
                     src="./careerLauncher.png"
                     alt="cl"
+                    style={{cursor:'pointer'}}
                   />
                   <h2 className="sponsor__name">Career Launcher </h2>
                 </div>

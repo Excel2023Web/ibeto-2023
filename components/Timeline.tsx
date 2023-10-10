@@ -20,7 +20,7 @@ export default function Timeline() {
     },
     {
       date: "21st October",
-      title: "Detailed Abstract Submission Open",
+      title: "Detailed Abstract Submission Opens",
       para: "Detailed Abstract Submission opens for registered IBeTo participants. Registration is still open via the form on the website.",
     },
     {
@@ -31,32 +31,37 @@ export default function Timeline() {
     {
       date: "25th November",
       title: "Selection of ideas",
-      para: "Revealing of phase 1 teams that are selected to the next level.",
+      para: "Selecting ideas, or announcing the phase 1 teams that have advanced to the next level.",
+    },
+    {
+      date: "25th November - 15th December",
+      title: "Detailed abstract submission",
+      para: "The selected teams will have to submit a detailed abstract regarding the topic by Dec 15th.",
     },
     {
       date: "22nd December",
-      title: "Announcement of Shortlisted Teams",
-      para: "Announcement of Shortlisted Teams.",
+      title: "Announcement of Shortlisted teams",
+      para: "The best 30 teams will be selected and announced for the next level.",
     },
     {
       date: "22nd December - 2nd February",
       title: "Project Development Begins",
-      para: "Create Phase begins. Teams are encouraged to start working on their projects..",
+      para: "The Create Phase begins. Teams are encouraged to start working on their projects.",
     },
-    // {
-    //   date: "10th January",
-    //   title: "Meet The Mentor Session",
-    //   para: "The teams are given an opportunity to interact with their mentors and obtain advice on how to further develop their project.",
-    // },
+    {
+      date: "10th January",
+      title: "Meet The Mentor Session",
+      para: "The teams are given an opportunity to interact with their mentors and obtain advice on how to develop their project further.",
+    },
     {
       date: "20th January",
       title: "Project Plan",
-      para: "The teams are required to submit their project plan - detailing their project creation process.",
+      para: "The teams must submit their project plan, detailing their project creation process.",
     },
     {
-      date: "Final Day",
+      date: "2nd February",
       title: "IBeTo Finale",
-      para: "Teams should give a presentation on their project along with a demonstration of their working prototype in front of the judges on the finale of the event. The winners will be announced on the same day.",
+      para: "Teams should give a presentation on their project along with a demonstration of their working prototype in front of the judges at the finale of the event. The winners will be announced on the same day.",
     },
   ];
   return (

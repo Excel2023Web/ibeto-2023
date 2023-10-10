@@ -62,7 +62,7 @@ export default function landingpagebanner() {
                     Innovations for a Better Tomorrow{" "}
                   </h1>
                   <p className="pt-4 sm:pt-6 font-body1 text-sm sm:text-[1.2rem] leading-relaxed text-white md:max-w-md md:text-lg">
-                    Register now for innovations that shape a better..{" "}
+                  Register now for innovations that shape a better future.{" "}
                   </p>
                   <div className="flex flex-col sm:flex-row gap-5 justify-center  items-start pt-5 sm:pt-5 space-x-6 md:justify-start">
                     <Link
