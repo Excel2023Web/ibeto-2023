@@ -225,7 +225,7 @@ export default function Faq() {
               <div className="flex items-center justify-center flex-shrink-0 w-8 h-8 bg-rose-400  rounded-full">
                 <span className="text-lg font-semibold text-white">?</span>
               </div>
-              <div data-aos="zoom-in" data-aos-delay="300" className="ml-4">
+              <div data-aos="zoom-in" data-aos-delay="100" className="ml-4">
                 <p className="text-xl font-normal text-gray-600 font-body1">
                   {items[0].question}
                 </p>
@@ -239,7 +239,7 @@ export default function Faq() {
               <div className="flex items-center justify-center flex-shrink-0 w-8 h-8 bg-rose-400  rounded-full">
                 <span className="text-lg font-semibold text-white">?</span>
               </div>
-              <div data-aos="zoom-in" data-aos-delay="300" className="ml-4">
+              <div data-aos="zoom-in" data-aos-delay="150" className="ml-4">
                 <p className="text-xl font-normal text-gray-600 font-body1">
                   {items[1].question}
                 </p>
@@ -253,7 +253,7 @@ export default function Faq() {
               <div className="flex items-center justify-center flex-shrink-0 w-8 h-8 bg-rose-400 rounded-full">
                 <span className="text-lg font-semibold text-white">?</span>
               </div>
-              <div data-aos="zoom-in" data-aos-delay="300" className="ml-4">
+              <div data-aos="zoom-in" data-aos-delay="200" className="ml-4">
                 <p className="text-xl font-normal text-gray-600 font-body1">
                   {items[2].question}
                 </p>
@@ -267,7 +267,7 @@ export default function Faq() {
               <div className="flex items-center justify-center flex-shrink-0 w-8 h-8 bg-rose-400  rounded-full">
                 <span className="text-lg font-semibold text-white">?</span>
               </div>
-              <div data-aos="zoom-in" data-aos-delay="300" className="ml-4">
+              <div data-aos="zoom-in" data-aos-delay="250" className="ml-4">
                 <p className="text-xl font-normal text-gray-600 font-body1">
                   {items[3].question}
                 </p>
@@ -295,7 +295,7 @@ export default function Faq() {
               <div className="flex items-center justify-center flex-shrink-0 w-8 h-8 bg-rose-400  rounded-full">
                 <span className="text-lg font-semibold text-white">?</span>
               </div>
-              <div data-aos="zoom-in" data-aos-delay="300" className="ml-4">
+              <div data-aos="zoom-in" data-aos-delay="350" className="ml-4">
                 <p className="text-xl font-normal text-gray-600 font-body1">
                   {items[5].question}
                 </p>
@@ -309,7 +309,7 @@ export default function Faq() {
               <div className="flex items-center justify-center flex-shrink-0 w-8 h-8 bg-rose-400  rounded-full">
                 <span className="text-lg font-semibold text-white">?</span>
               </div>
-              <div data-aos="zoom-in" data-aos-delay="300" className="ml-4">
+              <div data-aos="zoom-in" data-aos-delay="400" className="ml-4">
                 <p className="text-xl font-normal text-gray-600 font-body1">
                   {items[6].question}
                 </p>

@@ -38,13 +38,14 @@ export default function Home() {
         <Problem_stmnt />
         <Timeline />
         <Rewards/>
-
         <Sponsors />
         <div className="absolute w-full z-50">
           <Faq />
           <Contact />
           <Footer />
+          
         </div>
+        
       </div>
     </>
   );

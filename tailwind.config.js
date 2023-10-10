@@ -11,7 +11,7 @@ module.exports = {
         body: ["Poppins", "sans-serif"],
         body1: ["Inter", "sans-serif"],
         body2: ["Sora", "sans-serif"],
-        
+
       },
       fontWeight: {
         300: 300,
@@ -19,6 +19,43 @@ module.exports = {
         600: 600,
         700: 700,
         800: 800,
+      },
+      keyframes: {
+        wiggle: {
+          '0%, 100%': { transform: 'rotate(-3deg)', },
+          '50%': { transform: 'rotate(3deg)' },
+        }
+      },
+      keyframes: {
+        flowerFlow: {
+          '0%': {
+            opacity: '1',
+            transform: 'rotate(0deg)',
+            boxshadow: '0 0 0 -.5em currentcolor'
+            //   '0 0 0 -.5em currentcolor'
+            //   '0 0 0 -.5em currentcolor'
+            //  '0 0 0 -.5em currentcolor'
+            //  '0 0 0 -.5em currentcolor'
+            //   '0 0 0 -.5em currentcolor'
+            //   '0 0 0 -.5em currentcolor',
+            //   '0 0 0 -.5em currentcolor',
+          },
+          '100%': {
+            opacity: '0',
+            transform: 'rotate(180deg)',
+            boxshadow: '-1em -1em 0 -.35em currentcolor',
+            // '0 -1.5em 0 -.35em currentcolor'
+            // '1em -1em 0 -.35em currentcolor'
+            // '-1.5em 0 0 -.35em currentcolor'
+            // 1.5em -0 0 -.35em currentcolor'
+            // -1em 1em 0 -.35em currentcolor,
+            // 0 1.5em 0 -.35em currentcolor,
+            // 1em 1em 0 -.35em currentcolor;
+          }
+        },
+      },
+      animation: {
+        wiggle: 'flowerFlow 1s ease-out infinite;',
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
