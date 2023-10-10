@@ -103,7 +103,7 @@ export default function Roadmap() {
                   </span>
                 </li>
 
-                <li
+                {/* <li
                   data-aos="zoom-in"
                   data-aos-duration="1000"
                   data-aos-delay="800"
@@ -134,7 +134,7 @@ export default function Roadmap() {
                     {" "}
                     Time of end of Ideate{" "}
                   </span>
-                </li>
+                </li> */}
               </ul>
             </div>
 
@@ -213,7 +213,7 @@ export default function Roadmap() {
                   </span>
                 </li>
 
-                <li
+                {/* <li
                   data-aos="zoom-in"
                   data-aos-duration="1300"
                   data-aos-delay="1100"
@@ -244,7 +244,7 @@ export default function Roadmap() {
                     {" "}
                     Time of end of Innovate{" "}
                   </span>
-                </li>
+                </li> */}
               </ul>
             </div>
 
@@ -323,7 +323,7 @@ export default function Roadmap() {
                   </span>
                 </li>
 
-                <li
+                {/* <li
                   data-aos="zoom-in"
                   data-aos-duration="1700"
                   data-aos-delay="1700"
@@ -354,7 +354,7 @@ export default function Roadmap() {
                     {" "}
                     Time of end of Showcase{" "}
                   </span>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>
