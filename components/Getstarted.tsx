@@ -81,8 +81,7 @@ export default function Getstarted() {
                     IBeTo is a unique platform where we actively pursue the
                     extraordinary and tackle social issues. Here, dreams become
                     reality, visionaries blaze new trails, and aspiring leaders
-                    strive for a global impact. IBeTo participants collaborate
-                    on and create innovative solutions under expert guidance.
+                    strive for a global impact. 
                   
                   </p>
                   <div className="relative inline-flex items-center justify-center mt-8 rounded-full sm:mt-12 group">
