@@ -58,7 +58,7 @@ export default function landingpagebanner() {
             >
               <div className="pt-6 sm:px-5 pr-0 w-full items-center sm:pr-8 pb-24 text-left px-10 md:pb-12 md:w-2/3 sm:text-left">
                 <h1 className="relative fonts   font-body2  z-10 text-white font-display">
-                  Innovation for a Better Tomorrow{" "}
+                  Innovations for a Better Tomorrow{" "}
                 </h1>
                 <p className="pt-4 sm:pt-6 font-body1 text-sm sm:text-[1.2rem] leading-relaxed text-white md:max-w-md md:text-lg">
                   Register now for innovations that shape a better..{" "}
