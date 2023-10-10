@@ -175,7 +175,7 @@ const Navbar = () => {
                     paddingLeft: "4px",
                   }}
                   className="w-auto h-16 pl-4 sm:h-14 lg:h-16 lg:pl-0"
-                  src="./ibetologo.png"
+                  src="./ibeto-2023-with-text.png"
                   alt=""
                 />
               </Link>
@@ -255,7 +255,11 @@ const Navbar = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <img src="./ibetologo.png" alt="" className="meclogo__mob" />
+            <img
+              src="/ibeto-2023-with-text.png"
+              alt=""
+              className="meclogo__mob"
+            />
           </Link>
         </div>
       </Drawer>

@@ -10,7 +10,7 @@ export default function Sponsors() {
         autoPlay
         loop
         muted
-        className="absolute -mt-12 z-0 opacity-[15%] w-full h-fit object-cover max-w-none"
+        className="absolute -mt-12 z-0 opacity-[15%] w-full h-screen object-cover max-w-none"
       >
         <source src="/bg.mp4" type="video/mp4" />
       </video>

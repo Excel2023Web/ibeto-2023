@@ -10,13 +10,13 @@ export default function Faq() {
   const items = [
     {
       uuid: 1,
-      question: "Who could participate in Ibeto?",
+      question: "Who could participate in IBeTo ?",
       answer:
         "Participants can be undergraduates/postgraduates, including those who are currently pursuing the degree, with an upper age limit of 30 years.",
     },
     {
       uuid: 2,
-      question: "Will there be registration fees to participate in Ibeto 2023?",
+      question: "Will there be registration fees to participate in IBeTo  2023?",
       answer:
         "The event is completely free of cost.",
     },
@@ -39,7 +39,7 @@ export default function Faq() {
     },
     {
       uuid: 6,
-      question: "Will I be eligible for KTU activity points if I take part in IBeTo 2023?",
+      question: "Will I be eligible for KTU activity points if I take part in IBeTo  2023?",
       answer: "As per KTU regulations, socially beneficial projects can avail up to 50 activity points.",
     },
     {
@@ -69,7 +69,7 @@ export default function Faq() {
             Questions & Answers
           </h2>
           <p className="hidden max-w-xl mx-auto mt-4 text-base font-normal leading-relaxed text-gray-800 sm:block font-body1">
-            Explore the common questions and answers about IBeTo
+            Explore the common questions and answers about IBeTo 
           </p>
         </div>
 

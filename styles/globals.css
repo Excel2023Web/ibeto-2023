@@ -244,16 +244,16 @@ body::-webkit-scrollbar {
 .bg2 {
   background-image: radial-gradient(
       farthest-side at bottom left,
-      #7d174a57,
-      transparent 100px
+      #8a47695d,
+      transparent 200px
     ),
     radial-gradient(
       farthest-corner at bottom right,
-      #4e0125c7,
-      transparent 500px
+      #380019da,
+      transparent 600px
     ),
-    radial-gradient(farthest-side at top left, #500024a1, transparent 300px),
-    radial-gradient(farthest-corner at top right, #c0873273, transparent 200px);
+    radial-gradient(farthest-side at top left, #f7b8d482, transparent 300px),
+    radial-gradient(farthest-corner at top right, #f1d3a773, transparent 200px);
 }
 .bg11 {
   background-image: radial-gradient(
