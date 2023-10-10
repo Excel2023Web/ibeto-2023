@@ -30,7 +30,7 @@ export default function landingpagebanner() {
 
   return (
     <>
-      <div className="mt-0  fixed w-full bg-hero h-screen bg-no-repeat bg-cover bg-center">
+      <div className="mt-0 hidden md:block fixed w-full bg-hero h-screen bg-no-repeat bg-cover bg-center">
         <div className="right-0 hidden l-0 bottom-[30%] absolute h-full sm:flex mr-4 items-end pb-8"></div>{" "}
         <video
           autoPlay
@@ -100,12 +100,12 @@ export default function landingpagebanner() {
         </div>
       </div>
 
-      <div className="mt-0 md:hidden fixed w-full bg-hero h-screen bg-no-repeat bg-cover bg-center">
+      <div className="mt-0 block md:hidden fixed w-full bg-hero h-screen bg-no-repeat bg-cover bg-center">
         <video
           autoPlay
           loop
           muted
-          className="absolute z-10 sm: sm:w-screen h-screen object-cover max-w-none"
+          className="absolute z-10  h-screen w-screen object-cover  max-w-none"
         >
           <source src="/bg.mp4" type="video/mp4" />
         </video>{" "}
