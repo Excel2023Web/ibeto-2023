@@ -13,38 +13,18 @@ import Contact from '@/components/Contact';
 import Faq from '@/components/Faq';
 import Rewards from '@/components/Rewards';
 import Problem_stmnt from '@/components/Problem_stmtn';
-import axios from 'axios';
-import Loader from '@/components/Loader';
 import Head from 'next/head';
 
 const inter = Inter({ subsets: ['latin'] });
 
 export default function Home() {
-	const launchurl = `${process.env.NEXT_PUBLIC_LAUNCH_BACKEND_URL}/launch/status`;
-
 	useEffect(() => {
 		Aos.init({
 			offset: 50,
 		});
 	}, []);
 
-	const [isLaunched, setLaunched] = useState(false);
-	useEffect(() => {
-		if (!isLaunched) {
-			const fetchData = async () => {
-				try {
-					const res = await axios.get(launchurl);
-					setLaunched(res.data.launchStatus.websiteStatus);
-				} catch (error) {
-					console.log(error);
-				}
-			};
-			const intervalId = setInterval(fetchData, 2000);
-			return () => clearInterval(intervalId);
-		}
-	}, [isLaunched]);
-
-	return isLaunched ? (
+	return (
 		<>
 			<Head>
 				<title>IBeTo | Excel 2023</title>
@@ -69,7 +49,5 @@ export default function Home() {
 				</div>
 			</div>
 		</>
-	) : (
-		<Loader />
 	);
 }
