@@ -66,7 +66,8 @@ export default function landingpagebanner() {
                   </p>
                   <div className="flex flex-col sm:flex-row gap-5 justify-center  items-start pt-5 sm:pt-5 space-x-6 md:justify-start">
                     <Link
-                      href="#start"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSdJPPsZuJovs10vnA0IZ1Qb0QMr5Nyn1Bw8wM-TpVcFYjC8wA/viewform"
+                      target="_blank"
                       className="flex justify-center font-normal font-body2 text-md items-center py-3 px-9 hover:bg-[#c63e74] tracking-wide leading-7 text-white bg-[#8b254e]	rounded-full hover:shadow-xl z-50"
                     >
                       Register Now
