@@ -45,7 +45,7 @@ export default function Document() {
           Excel 2023."
         />
         <meta name="twitter:card" content="summary" />
-        <link rel="icon" href="./favicon.ico" sizes="any" />
+        {/* <link rel="icon" href="./favicon.ico" sizes="any" /> */}
         <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
         <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
