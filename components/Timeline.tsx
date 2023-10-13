@@ -68,7 +68,7 @@ export default function Timeline() {
       </div>{" "}
       <div className="timeline  border-t-1 border-slate-300/60">
         <div className="timeline__container">
-          <h2 className="font-body2 text-black text-center pb-3 sm:pb-12  mt-20 sm:mt-16 text-3xl font-normal text-blcak sm:text-4xl lg:text-5xl">
+          <h2 className="font-body2 text-black text-center pb-3 sm:pb-12  mt-20 sm:mt-16 text-3xl font-normal sm:text-4xl lg:text-5xl">
             Timeline
           </h2>
 
