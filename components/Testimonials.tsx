@@ -28,7 +28,7 @@ export default function Testimonial() {
       >
         <Slider {...settings} className="m-2 my-8 sm:m-16 ">
           <div className="p-1">
-            <div className="grid border-2 p-10 border-rose-300 rounded-[30px] items-center grid-cols-1 lg:grid-cols-2 gap-y-12 lg:gap-x-12 xl:gap-x-20">
+            <div className="grid border-2 p-4 border-rose-300 rounded-[30px] items-center grid-cols-1 lg:grid-cols-2 gap-y-12 lg:gap-x-12 xl:gap-x-20">
               <div>
                 <img
                   className="object-cover w-full h-80  rounded-3xl"
@@ -76,7 +76,7 @@ export default function Testimonial() {
             </div>
           </div>
           <div className="p-1">
-            <div className="grid border-2 p-10 justify-center border-rose-300 rounded-[30px] items-center grid-cols-1 lg:grid-cols-5 gap-16 sm:gap-0 gap-y-12 ">
+            <div className="grid border-2 p-5 justify-center border-rose-300 rounded-[30px] items-center grid-cols-1 lg:grid-cols-5 gap-16 sm:gap-0 gap-y-12 ">
               <div className="lg:col-span-2 flex justify-center">
                 <img
                   className="object-cover h-80  rounded-3xl"
@@ -122,7 +122,7 @@ export default function Testimonial() {
             </div>
           </div>{" "}
           <div className="p-1">
-            <div className="grid border-2 p-10 justify-center border-rose-300 rounded-[30px] items-center grid-cols-1 lg:grid-cols-5 gap-16 sm:gap-0 gap-y-12 ">
+            <div className="grid border-2 p-5 justify-center border-rose-300 rounded-[30px] items-center grid-cols-1 lg:grid-cols-5 gap-16 sm:gap-0 gap-y-12 ">
               <div className="lg:col-span-2 flex justify-center">
                 <img
                   className="object-cover h-80  rounded-3xl"
