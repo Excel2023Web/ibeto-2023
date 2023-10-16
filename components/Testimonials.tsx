@@ -26,7 +26,7 @@ export default function Testimonial() {
         data-aos-delay="300"
         className="px-4  mx-auto sm:px-6 lg:px-8 max-w-7xl"
       >
-        <Slider {...settings} className="m-16 ">
+        <Slider {...settings} className="m-2 my-8 sm:m-16 ">
           <div className="p-1">
             <div className="grid border-2 p-10 border-rose-300 rounded-[30px] items-center grid-cols-1 lg:grid-cols-2 gap-y-12 lg:gap-x-12 xl:gap-x-20">
               <div>
