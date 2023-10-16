@@ -14,6 +14,7 @@ import Faq from '@/components/Faq';
 import Rewards from '@/components/Rewards';
 import Problem_stmnt from '@/components/Problem_stmtn';
 import Head from 'next/head';
+import Testimonial from '@/components/Testimonials';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -40,6 +41,7 @@ export default function Home() {
 				<Roadmap />
 				<Problem_stmnt />
 				<Timeline />
+				<Testimonial />
 				<Rewards />
 				<Sponsors />
 				<div className='absolute w-full z-50'>

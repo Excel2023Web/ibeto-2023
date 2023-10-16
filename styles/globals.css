@@ -241,6 +241,13 @@ body::-webkit-scrollbar {
   .nav__drawer {
     width: 300px;
   }
+  
+.slick-prev:before,
+.slick-next:before {
+  color: #c8158c !important;
+
+}
+
 .bg2 {
   background-image: radial-gradient(
       farthest-side at bottom left,
