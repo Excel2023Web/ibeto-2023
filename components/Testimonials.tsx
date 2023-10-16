@@ -55,7 +55,7 @@ export default function Testimonial() {
                   </svg>
                 </div>
                 <blockquote className="mt-7">
-                  <p className="text-lg  font-normal leading-relaxed text-gray-900">
+                  <p className="sm:text-lg text-sm  font-normal leading-relaxed text-gray-900">
                     "Winning iBeto has been a highlight of our college
                     experience, and we strongly recommend everyone with big
                     dreams not to miss this event. If you're considering
@@ -103,7 +103,7 @@ export default function Testimonial() {
                   </svg>
                 </div>
                 <blockquote className="mt-10">
-                  <p className="text-lg font-normal leading-relaxed text-gray-900">
+                  <p className="sm:text-lg text-sm  font-normal leading-relaxed text-gray-900">
                     "IBeTo gives us a great opportunity to learn, make and
                     incubate our idea's into reality with mentorship and
                     funding. So don't miss the experience and do participate!!"
@@ -149,14 +149,14 @@ export default function Testimonial() {
                   </svg>
                 </div>
                 <blockquote className="mt-5">
-                  <p className="text-lg font-normal leading-snug text-gray-900">
+                  <p className="sm:text-lg text-sm  font-normal leading-relaxed text-gray-900">
                     "From day 1 at college, IBeTo and Excel are something we
                     hear everyone talk about. It was a dream come true when our
                     team, CARBON 2.0, got selected into the top 15 teams from
-                    the 212 competing teams of innovators. I thank the organizers and mentors who
-                    were strong and reliable pillars of support and helping up
-                    push through challenges. It was a wonderful learning
-                    experience."
+                    the 212 competing teams of innovators. I thank the
+                    organizers and mentors who were strong and reliable pillars
+                    of support and helping up push through challenges. It was a
+                    wonderful learning experience."
                   </p>
                 </blockquote>
 
