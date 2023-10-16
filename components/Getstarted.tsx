@@ -23,33 +23,7 @@ export default function Getstarted() {
                 data-aos="zoom-in"
                 className="relative justify-between bg-rose-50 overflow-hidden border-2 border-rose-200 md:flex rounded-3xl"
               >
-                <div className="absolute right-0 transform -translate-y-1/2 translate-x-80 md:translate-x-36 top-1/2 md:top-0 md:-translate-y-24">
-                  <svg
-                    className="blur-3xl opacity-20 backdrop-blur-64  filter"
-                    width="518"
-                    height="337"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M297.629 36.521C425.034 36.521 518-55.783 518 53.097S184.03 337 56.625 337c-127.406 0 0-175.023 0-283.903 0-108.88 113.599-16.576 241.004-16.576Z"
-                      fill="url(#FFFFFF-1)"
-                    />
-                    <defs>
-                      <linearGradient
-                        id="a"
-                        x1="0"
-                        y1="337"
-                        x2="36.01"
-                        y2="-45.389"
-                        gradientUnits="userSpaceOnUse"
-                      >
-                        <stop offset="0%" className="colo" />
-                        <stop className="colo1" offset="100%" />
-                      </linearGradient>
-                    </defs>
-                  </svg>
-                </div>
+               
 
                 <div className="absolute inset-0 min-w-7xl">
                   <img
