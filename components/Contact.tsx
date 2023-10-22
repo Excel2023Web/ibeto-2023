@@ -131,7 +131,7 @@ export default function Contact() {
             <div className="overflow-hidden  aspect-square">
               <img
                 className="object-cover w-full transition-all rounded-[10px]  duration-300 group-hover:scale-110"
-                src="/ph (3).png"
+                src="/abhishek_p.png"
                 alt=""
               />
             </div>
