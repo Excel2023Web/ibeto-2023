@@ -245,7 +245,7 @@ export default function Contact() {
                 Christopher Roy
               </h3>{" "}
               <h4 className="text-sm font-normal  mb-0.5 font-body1 text-gray-600">
-                Social Initiatives Manager
+              Event Head
               </h4>
               <div className="flex mt-3 justify-center">
                 <ul className="flex px-3 z-50 gap-2  items-center md:order-3 sm:mt-0">
@@ -298,7 +298,7 @@ export default function Contact() {
                 Dileep Ambali
               </h3>{" "}
               <h4 className="text-sm font-normal  mb-0.5 font-body1 text-gray-600">
-                Social Initiatives Manager
+                Event Head
               </h4>
               <div className="flex mt-3 justify-center">
                 <ul className="flex px-3 z-50 gap-2  items-center md:order-3 sm:mt-0">
@@ -315,7 +315,7 @@ export default function Contact() {
 
                   <li>
                     <a
-                      href="mailto:chrizroy2001@gmail.com"
+                      href="mailto:ambalidileep@gmail.com"
                       title=""
                       target="_blank"
                       className="flex items-center justify-center  transition-all duration-200 bg-transparent border border-gray-300 rounded-[8px] w-7 h-7 focus:bg-slate-800 hover:text-white focus:text-white hover:bg-slate-800 hover:border-slate-800 focus:border-slate-800"
