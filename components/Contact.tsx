@@ -22,7 +22,7 @@ export default function Contact() {
           </h2>
         </div>
 
-        <div className="grid grid-cols-1 justify-center  gap-24 mt-12 mb-24 sm:px-12  px-10  sm:grid-cols-2  sm:max-w-lg  md:max-w-none  mx-auto  sm:gap-y-32  lg:grid-cols-4 sm:mt-16 sm:gap-6">
+        <div className="grid grid-cols-1 justify-center  gap-24 mt-12 mb-24 sm:px-12  px-10  sm:grid-cols-2  sm:max-w-[85%]  md:max-w-[80%]  mx-auto  sm:gap-y-32  lg:grid-cols-3 lg:max-w-[80%]  sm:mt-16 sm:gap-6">
           <div className="relative h-full  bg-white m-2 rounded-[10px] max-w-sm  shadow-lg group">
             <div className="overflow-hidden  aspect-square">
               <img
@@ -220,6 +220,112 @@ export default function Contact() {
                   <li>
                     <a
                       href="https://www.linkedin.com/in/cijo-jose-01b59425a"
+                      title=""
+                      target="_blank"
+                      className="flex items-center justify-center  transition-all duration-200 bg-transparent border border-gray-300 rounded-[8px] w-7 h-7 focus:bg-slate-800 hover:text-white focus:text-white hover:bg-slate-800 hover:border-slate-800 focus:border-slate-800"
+                    >
+                      <FiLinkedin className="contact_social_icon" />
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          {/* cristopher */}
+          <div className="relative h-full max-w-sm  bg-white m-2 rounded-[10px] shadow-lg group">
+            <div className="overflow-hidden  aspect-square">
+              <img
+                className="object-cover w-full transition-all rounded-[10px]  duration-300 group-hover:scale-110"
+                src="/cristopher.png"
+                alt=""
+              />
+            </div>
+            <div className="px-5 py-3   text-center bg-white -mt-8 absolute w-full rounded-t-[14px]">
+              <h3 className="text-base font-semibold font-body1 text-gray-900">
+                Christopher Roy
+              </h3>{" "}
+              <h4 className="text-sm font-normal  mb-0.5 font-body1 text-gray-600">
+              Event Head
+              </h4>
+              <div className="flex mt-3 justify-center">
+                <ul className="flex px-3 z-50 gap-2  items-center md:order-3 sm:mt-0">
+                  <li>
+                    <a
+                      href="tel:+919496700755"
+                      title=""
+                      target="_blank"
+                      className="flex items-center justify-center  transition-all duration-200 bg-transparent border border-gray-300 rounded-[8px] w-7 h-7 focus:bg-slate-800 hover:text-white focus:text-white hover:bg-slate-800 hover:border-slate-800 focus:border-slate-800"
+                    >
+                      <FiPhoneCall className="contact_social_icon" />
+                    </a>
+                  </li>
+
+                  <li>
+                    <a
+                      href="mailto:chrizroy2001@gmail.com"
+                      title=""
+                      target="_blank"
+                      className="flex items-center justify-center  transition-all duration-200 bg-transparent border border-gray-300 rounded-[8px] w-7 h-7 focus:bg-slate-800 hover:text-white focus:text-white hover:bg-slate-800 hover:border-slate-800 focus:border-slate-800"
+                    >
+                      <FiMail className="contact_social_icon" />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.linkedin.com/in/chris-roy-/"
+                      title=""
+                      target="_blank"
+                      className="flex items-center justify-center  transition-all duration-200 bg-transparent border border-gray-300 rounded-[8px] w-7 h-7 focus:bg-slate-800 hover:text-white focus:text-white hover:bg-slate-800 hover:border-slate-800 focus:border-slate-800"
+                    >
+                      <FiLinkedin className="contact_social_icon" />
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          {/* Dileep Ambali*/}
+          <div className="relative h-full max-w-sm  bg-white m-2 rounded-[10px] shadow-lg group">
+            <div className="overflow-hidden  aspect-square">
+              <img
+                className="object-cover w-full transition-all rounded-[10px]  duration-300 group-hover:scale-110"
+                src="/dileep.png"
+                alt=""
+              />
+            </div>
+            <div className="px-5 py-3   text-center bg-white -mt-8 absolute w-full rounded-t-[14px]">
+              <h3 className="text-base font-semibold font-body1 text-gray-900">
+                Dileep Ambali
+              </h3>{" "}
+              <h4 className="text-sm font-normal  mb-0.5 font-body1 text-gray-600">
+                Event Head
+              </h4>
+              <div className="flex mt-3 justify-center">
+                <ul className="flex px-3 z-50 gap-2  items-center md:order-3 sm:mt-0">
+                  <li>
+                    <a
+                      href="tel:+919497049598"
+                      title=""
+                      target="_blank"
+                      className="flex items-center justify-center  transition-all duration-200 bg-transparent border border-gray-300 rounded-[8px] w-7 h-7 focus:bg-slate-800 hover:text-white focus:text-white hover:bg-slate-800 hover:border-slate-800 focus:border-slate-800"
+                    >
+                      <FiPhoneCall className="contact_social_icon" />
+                    </a>
+                  </li>
+
+                  <li>
+                    <a
+                      href="mailto:ambalidileep@gmail.com"
+                      title=""
+                      target="_blank"
+                      className="flex items-center justify-center  transition-all duration-200 bg-transparent border border-gray-300 rounded-[8px] w-7 h-7 focus:bg-slate-800 hover:text-white focus:text-white hover:bg-slate-800 hover:border-slate-800 focus:border-slate-800"
+                    >
+                      <FiMail className="contact_social_icon" />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.linkedin.com/in/dileep-ambali-275084211"
                       title=""
                       target="_blank"
                       className="flex items-center justify-center  transition-all duration-200 bg-transparent border border-gray-300 rounded-[8px] w-7 h-7 focus:bg-slate-800 hover:text-white focus:text-white hover:bg-slate-800 hover:border-slate-800 focus:border-slate-800"
