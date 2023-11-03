@@ -60,20 +60,20 @@ export default function Getstarted() {
                   </p>
                   <div className="relative inline-flex items-center justify-center mt-8 rounded-full sm:mt-12 group">
                     <div className="absolute w-1/2 transition-all duration-200 rounded-full -inset-px "></div>
-                    {/* <Link
-                      href=""
+                    <Link
+                      href="https://drive.google.com/file/d/1Fy7HFt7LEjsk7W3J7APGEoCKOVC1CXQt/view?usp=sharing"
                       target="_blank"
                       title=""
                       className="relative inline-flex items-center justify-center px-8 py-2 pr-16 text-base font-normal text-black scale-95 border-2 border-r-0 border-rose-600 rounded-full text-md font-body2"
                       role="button"
                     >
                       Guidelines{" "}
-                    </Link>{" "} */}
+                    </Link>{" "}
                     <Link
                       href="https://docs.google.com/forms/d/e/1FAIpQLSdJPPsZuJovs10vnA0IZ1Qb0QMr5Nyn1Bw8wM-TpVcFYjC8wA/viewform"
                       target="_blank"
                       title="register_Ibeto"
-                      className="relative hover:scale-110 text-md -ml-0 font-body2 font-normal inline-flex items-center justify-center px-8 scale-105 py-2 text-base text-white bg-gradient-to-r from-[#f9681c] to-[#e80a5a] rounded-full"
+                      className="relative hover:scale-110 text-md -ml-12 font-body2 font-normal inline-flex items-center justify-center px-8 scale-105 py-2 text-base text-white bg-gradient-to-r from-[#f9681c] to-[#e80a5a] rounded-full"
                       role="button"
                     >
                       Register
