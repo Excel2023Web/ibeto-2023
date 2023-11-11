@@ -19,7 +19,7 @@ export default function Timeline() {
       para: "IBeTo registration opens. Students can register by submitting their ideas by filling out the form on the website.",
     },
     {
-      date: "11th November",
+      date: "20th November",
       title: "Registration closes",
       para: "IBeTo registration closes.",
     },
