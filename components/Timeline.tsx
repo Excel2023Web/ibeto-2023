@@ -24,7 +24,7 @@ export default function Timeline() {
       para: "IBeTo registration closes.",
     },
     {
-      date: "25th November",
+      date: "29th November",
       title: "Selection of ideas",
       para: "Selecting ideas, or announcing the phase 1 teams that have advanced to the next level.",
     },
