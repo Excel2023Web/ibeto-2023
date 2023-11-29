@@ -79,6 +79,18 @@ export default function Getstarted() {
                       Register
                     </Link>
                   </div>
+                  <div className="relative flex items-center justify-center sm:justify-normal mt-6 rounded-full sm:mt-8 group">
+                    <div className="absolute w-1/2 transition-all duration-200 rounded-full -inset-px "></div>
+                    <Link
+                      href="https://drive.google.com/file/d/1ySh2aRXvqJOv5_28HXYorfa6rTe5mRlZ/view?usp=drivesdk"
+                      target="_blank"
+                      title=""
+                      className="relative inline-flex items-center justify-center px-8 py-2 text-base font-normal text-black scale-95 border-2 border-rose-600 rounded-full text-md font-body2"
+                      role="button"
+                    >
+                      View Selected Teams{" "}
+                    </Link>{" "}
+                  </div>
                 </div>
 
                 <div className="relative md:hidden">
