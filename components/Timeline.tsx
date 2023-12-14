@@ -29,7 +29,7 @@ export default function Timeline() {
       para: "Selecting ideas, or announcing the phase 1 teams that have advanced to the next level.",
     },
     {
-      date: "29th November - 15th December",
+      date: "29th November - 18th December",
       title: "Detailed abstract submission",
       para: "The selected teams will have to submit a detailed abstract regarding the topic by Dec 15th.",
     },
