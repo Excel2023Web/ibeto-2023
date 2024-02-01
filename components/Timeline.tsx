@@ -34,17 +34,17 @@ export default function Timeline() {
       para: "The selected teams will have to submit a detailed abstract regarding the topic by Dec 15th.",
     },
     {
-      date: "22nd December",
-      title: "Announcement of Shortlisted teams",
+      date: "25th December",
+      title: "Announcement of Shortlisted Teams",
       para: "The best 30 teams will be selected and announced for the next level.",
     },
     {
-      date: "22nd December - 2nd February",
+      date: "26th December",
       title: "Project Development Begins",
       para: "The Create Phase begins. Teams are encouraged to start working on their projects.",
     },
     {
-      date: "20th January",
+      date: "15th February",
       title: "Project Plan",
       para: "The teams must submit their project plan, detailing their project creation process.",
     },
