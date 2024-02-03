@@ -49,7 +49,7 @@ export default function Timeline() {
       para: "The teams must submit their project plan, detailing their project creation process.",
     },
     {
-      date: "1st March",
+      date: "29th February",
       title: "IBeTo Finale",
       para: "Teams should give a presentation on their project along with a demonstration of their working prototype in front of the judges at the finale of the event. The winners will be announced on the same day.",
     },
