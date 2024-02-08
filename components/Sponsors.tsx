@@ -33,7 +33,7 @@ export default function Sponsors() {
               className="flex mb-8 w-full justify-center"
             >
               <div
-                className="inline-grid grid-cols-2 gap-8 mb-5 mt-8 sm:gap-x-12 sm:gap-y-10 sm:grid-cols-4 sm:mt-12"
+                className="flex-col grid-cols-2 gap-8 mb-5 mt-8 sm:flex-row sm:gap-x-16 sm:gap-y-10 sm:grid-cols-4 sm:mt-12"
                 style={{
                   display: "flex",
                 }}
@@ -48,6 +48,17 @@ export default function Sponsors() {
                     style={{cursor:'pointer'}}
                   />
                   <h2 className="sponsor__name">Career Launcher </h2>
+                </div>
+                <div className="flex justify-center gap-2 flex-col w-full" onClick={()=>{
+                  window.open('https://www.abilytics.com/')
+                }}>
+                  <img
+                    className="collaborator__img__abilytics"
+                    src="./abilytics.jpeg"
+                    alt="cl"
+                    style={{cursor:'pointer'}}
+                  />
+                  <h2 className="sponsor__name">Abilytics </h2>
                 </div>
                 {/* <div className="flex justify-center gap-2 flex-col ">
                   <img

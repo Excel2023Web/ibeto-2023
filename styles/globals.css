@@ -319,6 +319,16 @@ body::-webkit-scrollbar {
 .collaborator__img{
   width: 15rem;
 }
+.collaborator__img__abilytics{
+  width: 15rem;
+  height: 100%;
+}
+@media screen and (max-width: 640px){
+  .collaborator__img__abilytics{
+    width: 15rem;
+    height: 15rem;
+  }
+}
 .sponsor__name{
   font-size: 1.2rem;
   color: #ffff;
