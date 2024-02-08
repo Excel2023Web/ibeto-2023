@@ -323,10 +323,22 @@ body::-webkit-scrollbar {
   width: 15rem;
   height: 100%;
 }
+.collaborator__github{
+  padding: 4rem 0rem;
+  width: 15rem;
+}
 @media screen and (max-width: 640px){
   .collaborator__img__abilytics{
     width: 15rem;
     height: 15rem;
+  }
+  .collaborator__github__section{
+    height: 15rem;
+  }
+  .collaborator__github{
+    height: 12rem;
+    padding: 1.5rem 0rem;
+    width: 15rem;
   }
 }
 .sponsor__name{
